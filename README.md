@@ -7,4 +7,4 @@ To Do List:
 
 -Connect to reddit to scrap latest manga chapters
 
--;ook into online hosting, so the bot can run without manually starting program
+-look into online hosting, so the bot can run without manually starting program
